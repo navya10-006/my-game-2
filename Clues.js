@@ -1,0 +1,4 @@
+class Clues{
+    constructor(){}
+    display(){}
+}
